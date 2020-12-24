@@ -20,7 +20,7 @@
     "botkit-storage-redis": "1.1.0",
     "cache": "^2.1.0",
     "d3": "^5.9.2",
-    "date-and-time": "^0.6.3",
+    "date-and-time": "^0.14.2",
     "git": "^0.1.5",
     "json": "^9.0.6",
     "modules": "^0.4.0",
